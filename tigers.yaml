@@ -13,3 +13,5 @@ members:
   - Kim
 
 fetch : this
+
+alias : cam, commit -am
