@@ -13,5 +13,5 @@ members:
   - Kim
 
 fetch : this
-
 new: branch
+alias : cam, commit -am
